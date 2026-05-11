@@ -14,6 +14,11 @@ A simple calculator application built using Java Swing and GridLayout.
 - Swing
 - GridLayout
 
+## Files
+- CalculatorApp.java
+- README.md
+- calculator.png
+  
 ## Screenshot
 ![Calculator App](calculator.png)
 
